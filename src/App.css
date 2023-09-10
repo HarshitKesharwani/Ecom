@@ -36,3 +36,30 @@
     transform: rotate(360deg);
   }
 }
+.navbar{
+  height:80px;
+  width: 100%;
+  background-color: black;
+  display:flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.links
+{
+  align-items: center;
+  display: flex;
+  margin-right: 50px;
+  
+}
+.links a{
+
+  text-decoration: none;
+  color: aliceblue;
+  font-size: 25px;
+  margin-left: 20px;
+}
+.title
+{
+  color: white;
+  margin-right: 13cm;
+}
